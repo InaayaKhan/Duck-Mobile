@@ -1,6 +1,6 @@
 This is a Wi-Fi-controlled RC car driven by an Arduino D1 Mini microcontroller.
 
-**Implementation Details**
+**IMPLEMENTATION DETAILS:**
 
   **Hardware Components Required:**
   - Microcontroller: Arduino D1 Mini Lite
